@@ -1,0 +1,460 @@
+.hero {
+    display: block;
+    background-image: url(../imgs/hero-bg.png);
+}
+
+.hero .hero-logo {
+    width: 55%;
+}
+
+.hero .hero-video {
+    width: 100%;
+    aspect-ratio: 1/.7;
+    object-position: center -13vh;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.hero .hero-title {
+    color: #fff;
+    background-color: #6f1946;
+    width: 75%;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3% 0px;
+    position: relative;
+    font-weight: 500;
+}
+
+.hero .hero-title::after {
+    content: " ";
+    position: absolute;
+    top: -3px;
+    right: -6%;
+    width: 24%;
+    height: 15%;
+    background-color: #ff9419;
+}
+
+.hero .hero-title::before {
+    content: " ";
+    position: absolute;
+    bottom: -3px;
+    left: -6%;
+    width: 24%;
+    height: 15%;
+    background-color: #eb5a3c;
+}
+
+.hero p {
+    width: 85%;
+    color: #0f2937;
+    font-weight: 500;
+}
+
+.hero .btn-con {
+    display: flex;
+    gap: 7%;
+    justify-content: center;
+    width: 100%;
+}
+
+.hero .btn-con button {
+    background-color: #b21931;
+    color: #fff;
+    padding: 2% 0px;
+    width: 25%;
+    border-radius: .2rem;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+/* #############################################3 */
+
+/* al-shareek */
+
+.al-shareek {
+    background: #002A3A;
+}
+
+.al-shareek .back-btn {
+    background: #85B8B1;
+
+}
+
+.al-shareek .mid-title {
+    color: #fff;
+    background: #B4213F;
+
+}
+
+.al-shareek .num {
+    background: #012938;
+    color: #FC4C2E;
+}
+
+.al-shareek .page-img {
+    width: 75%;
+    margin-right: auto;
+    display: block;
+
+}
+
+.sahaba {
+    background: #002A3A;
+}
+
+.sahaba .back-btn {
+    background: #85B8B1;
+
+}
+
+.sahaba .mid-title {
+    color: #fff;
+    background: #B4213F;
+
+}
+
+.sahaba .num {
+    background: #012938;
+    color: #FC4C2E;
+}
+
+.sahaba .page-img {
+    width: 75%;
+    margin-right: auto;
+    display: block;
+
+}
+
+/* sh */
+
+.sh {
+    background: #002A3A;
+}
+
+.sh .back-btn {
+    background: #85B8B1;
+
+}
+
+.sh .mid-title {
+    color: #fff;
+    background: #B4213F;
+
+}
+
+.sh .num {
+    background: #012938;
+    color: #FC4C2E;
+}
+
+.sh .page-img {
+    width: 75%;
+    margin-right: auto;
+    display: block;
+
+}
+
+/* mokhtabar */
+
+.mokhtabar {
+    background: #002A3A;
+}
+
+.mokhtabar .back-btn {
+    background: #85B8B1;
+
+}
+
+.mokhtabar .mid-title {
+    color: #fff;
+    background: #B4213F;
+
+}
+
+.mokhtabar .num {
+    background: #012938;
+    color: #FC4C2E;
+}
+
+.mokhtabar .page-img {
+    width: 75%;
+    margin-right: auto;
+    display: block;
+
+}
+
+/* moatazelaat */
+
+.moatazelaat {
+    background: #780A47;
+}
+
+.moatazelaat .back-btn {
+    background: #E1912E;
+
+}
+
+.moatazelaat .mid-title {
+    color: #fff;
+    background: #B4213F;
+
+}
+
+.moatazelaat .num {
+    background: #780A47;
+    color: #FC4C2E;
+}
+
+.moatazelaat .page-img {
+    width: 75%;
+    margin-right: auto;
+    display: block;
+
+}
+
+/* stories */
+
+.stories {
+    background: #012938;
+}
+
+.stories .back-btn {
+    background: #85B8B1;
+
+}
+
+.stories .mid-title {
+    color: #fff;
+    background: #FF8B00;
+
+}
+
+
+.stories .page-img {
+    width: 60%;
+    margin-left: auto;
+    display: block;
+
+}
+
+/* menh */
+
+.menh {
+    background: #780A47;
+}
+
+.menh .back-btn {
+    background: #E1912E;
+
+}
+
+.menh .num {
+    background-color: #780A47;
+}
+
+.menh .mid-title {
+    color: #fff;
+    background: #F3BE91;
+
+}
+
+
+.menh .page-img {
+    width: 92.5%;
+    margin-left: auto;
+    display: block;
+
+}
+
+/* comik */
+
+.comik {
+    background: #780A47;
+}
+
+.comik .back-btn {
+    background: #E1912E;
+
+}
+
+.comik .num {
+    background-color: #780A47;
+}
+
+.comik .mid-title {
+    color: #fff;
+    background: #F3BE91;
+
+}
+
+
+.comik .page-img {
+    width: 92.5%;
+    margin-right: auto;
+    display: block;
+
+}
+
+/* derasaat */
+
+.derasaat {
+    background: #85B8B1;
+}
+
+.derasaat .back-btn {
+    background: #012938;
+
+}
+
+.derasaat .num {
+    background-color: #780A47;
+}
+
+.derasaat .mid-title {
+    color: #fff;
+    background: #F3BE91;
+
+}
+
+
+.derasaat .page-img {
+    width: 100%;
+    margin-right: auto;
+    display: block;
+
+}
+/* kind */
+
+.kind {
+    background: #012938;
+}
+
+.kind .back-btn {
+    background: #85B8B1;
+
+}
+
+.kind .mid-title {
+    color: #fff;
+    background: #780A47;
+}
+
+.kind .page-img {
+    width: 100%;
+    margin-right: auto;
+    display: block;
+
+}
+/* baba */
+
+.baba {
+    background: #012938;
+}
+
+.baba .back-btn {
+    background: #85B8B1;
+    
+}
+
+.baba .num{
+    background: #012938;
+
+}
+
+.baba .mid-title {
+    color: #fff;
+    background: #F3BE91;
+}
+
+.baba .page-img {
+    width: 92.5%;
+    margin-right: auto;
+    display: block;
+
+}
+/* moatamar */
+
+.moatamar {
+    background: #012938;
+}
+
+.moatamar .back-btn {
+    background: #85B8B1;
+    
+}
+
+.moatamar .num{
+    background: #012938;
+
+}
+
+.moatamar .mid-title {
+    color: #fff;
+    background: #F3BE91;
+}
+
+.moatamar .page-img {
+    width: 100%;
+    margin-right: auto;
+    display: block;
+
+}
+/* tadreeb-mokathf */
+
+.tadreeb-mokathf {
+    background: #012938;
+}
+
+.tadreeb-mokathf .back-btn {
+    background: #85B8B1;
+    
+}
+
+.tadreeb-mokathf .num{
+    background: #012938;
+
+}
+
+.tadreeb-mokathf .mid-title {
+    color: #fff;
+    background: #85B8B1;
+}
+
+.tadreeb-mokathf .page-img {
+    width: 92.5%;
+    margin-right: auto;
+    display: block;
+
+}
+/* alketaab */
+
+.alketaab {
+    background: #012938;
+}
+
+.alketaab .back-btn {
+    background: #85B8B1;
+    
+}
+
+.alketaab .num{
+    background: #012938;
+
+}
+
+.alketaab .mid-title {
+    color: #fff;
+    background: #780A47;
+}
+
+.alketaab .page-img {
+    width: 92.5%;
+    margin-right: auto;
+    display: block;
+
+}
