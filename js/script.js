@@ -57,6 +57,8 @@ $(document).ready(function () {
         $(".tadreeb-mokathf-en p").css("font-size", (fontSize * .032) + 'px');
         $(".alketaab-ar p").css("font-size", (fontSize * .034) + 'px');
         $(".alketaab-en p").css("font-size", (fontSize * .032) + 'px');
+        $(".sonaa-ar p").css("font-size", (fontSize * .034) + 'px');
+        $(".sonaa-en p").css("font-size", (fontSize * .032) + 'px');
         $(".kind-ar p").css("font-size", (fontSize * .034) + 'px');
         $(".kind-en p").css("font-size", (fontSize * .032) + 'px');
         $(".kind-ar .item").css("font-size", (fontSize * .04) + 'px');

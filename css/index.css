@@ -458,3 +458,31 @@ button {
     display: block;
 
 }
+/* sonaa */
+
+.sonaa {
+    background: #85B8B1;
+}
+
+.sonaa .back-btn {
+    background: #012938;
+    
+}
+
+.sonaa .num{
+    background: #85B8B1;
+    color: #780A47;
+
+}
+
+.sonaa .mid-title {
+    color: #fff;
+    background: #780A47;
+}
+
+.sonaa .page-img {
+    width: 50%;
+    margin-left: auto;
+    display: block;
+
+}
