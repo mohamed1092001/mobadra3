@@ -84,6 +84,7 @@ $(document).ready(function () {
         $(".en-section .goal-box .num").css("font-size", (fontSize * .019) + 'px');
         $(".baba-en .mid-title").css("font-size", (fontSize * .034) + 'px');
         $(".mokhtabar p").css("font-size", (fontSize * .029) + 'px');
+        $(".derasaat .qr-box p").css("font-size", (fontSize * .027) + 'px');
     }
 
     // أول مرة لما الصفحة تتحمل

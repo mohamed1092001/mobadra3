@@ -60,7 +60,7 @@
 }
 
 .hero .btn-con button {
-    background-color: #b21931;
+    background-color: #6f1946;
     color: #fff;
     padding: 2% 0px;
     width: 25%;
@@ -97,7 +97,7 @@ button {
 }
 
 .al-shareek .page-img {
-    width: 75%;
+    width: 92.5%;
     margin-right: auto;
     display: block;
 
@@ -260,7 +260,8 @@ button {
 .menh .mid-title {
     color: #fff;
     background: #F3BE91;
-
+    width: 40%;
+    padding: 6px;
 }
 
 
@@ -288,7 +289,7 @@ button {
 
 .comik .mid-title {
     color: #fff;
-    background: #F3BE91;
+    background: #85b8b1;
 
 }
 
@@ -328,6 +329,7 @@ button {
     display: block;
 
 }
+
 /* kind */
 
 .kind {
@@ -341,7 +343,7 @@ button {
 
 .kind .mid-title {
     color: #fff;
-    background: #780A47;
+    background: #b4213f;
 }
 
 .kind .page-img {
@@ -350,6 +352,7 @@ button {
     display: block;
 
 }
+
 /* baba */
 
 .baba {
@@ -358,10 +361,10 @@ button {
 
 .baba .back-btn {
     background: #85B8B1;
-    
+
 }
 
-.baba .num{
+.baba .num {
     background: #012938;
 
 }
@@ -377,6 +380,7 @@ button {
     display: block;
 
 }
+
 /* moatamar */
 
 .moatamar {
@@ -385,10 +389,10 @@ button {
 
 .moatamar .back-btn {
     background: #85B8B1;
-    
+
 }
 
-.moatamar .num{
+.moatamar .num {
     background: #012938;
 
 }
@@ -404,6 +408,7 @@ button {
     display: block;
 
 }
+
 /* tadreeb-mokathf */
 
 .tadreeb-mokathf {
@@ -412,10 +417,10 @@ button {
 
 .tadreeb-mokathf .back-btn {
     background: #85B8B1;
-    
+
 }
 
-.tadreeb-mokathf .num{
+.tadreeb-mokathf .num {
     background: #012938;
 
 }
@@ -431,6 +436,7 @@ button {
     display: block;
 
 }
+
 /* alketaab */
 
 .alketaab {
@@ -439,10 +445,10 @@ button {
 
 .alketaab .back-btn {
     background: #85B8B1;
-    
+
 }
 
-.alketaab .num{
+.alketaab .num {
     background: #012938;
 
 }
@@ -458,6 +464,7 @@ button {
     display: block;
 
 }
+
 /* sonaa */
 
 .sonaa {
@@ -466,10 +473,10 @@ button {
 
 .sonaa .back-btn {
     background: #012938;
-    
+
 }
 
-.sonaa .num{
+.sonaa .num {
     background: #85B8B1;
     color: #780A47;
 
